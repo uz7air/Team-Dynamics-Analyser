@@ -99,9 +99,9 @@ py.show()
 
 #Main   
 print("---------------------------------------")
-print("   Welcome to Master's organisation    ")
+print("   Welcome to uzair organisation    ")
 print("---------------------------------------")
-print("   The projects available are:\n\n   1. Password checking\n   2. Lift Scenario\n   3. Chatbox\n   4. ATM\n   5. Exit")
+print("   The projects available are:\n\n   1.availiable teams\n    5. Exit")
 choice = input("   Enter your choice: ")
 print("\n")       
 temp = temp(choice)
